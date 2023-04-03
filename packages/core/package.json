@@ -170,7 +170,7 @@
     "react-dom": "^17.0.2",
     "react-material-ui-carousel": "^2.3.11",
     "react-router": "^5.3.4",
-    "react-virtualized-auto-sizer": "^1.0.7",
+    "react-virtualized-auto-sizer": "^1.0.11",
     "readable-stream": "^3.6.0",
     "rfc6902": "^5.0.1",
     "selfsigned": "^2.1.1",
