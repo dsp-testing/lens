@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "arg": "^5.0.2",
-    "semver": "^7.3.8"
+    "semver": "^7.5.0"
   },
   "devDependencies": {
     "@swc/cli": "^0.1.61",
