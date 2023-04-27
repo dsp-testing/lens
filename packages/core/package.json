@@ -317,7 +317,7 @@
     "webpack-dev-server": "^4.11.1",
     "webpack-node-externals": "^3.0.0",
     "xterm": "^4.19.0",
-    "xterm-addon-fit": "^0.5.0"
+    "xterm-addon-fit": "^0.7.0"
   },
   "peerDependencies": {
     "@k8slens/application": "^6.5.0-alpha.0",
@@ -347,6 +347,6 @@
     "monaco-editor": "^0.29.1",
     "react-select": "^5.7.0",
     "typed-emitter": "^1.4.0",
-    "xterm-addon-fit": "^0.5.0"
+    "xterm-addon-fit": "^0.7.0"
   }
 }
