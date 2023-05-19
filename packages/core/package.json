@@ -279,7 +279,7 @@
     "make-plural": "^6.2.2",
     "memfs": "^3.4.13",
     "memorystream": "^0.3.1",
-    "mini-css-extract-plugin": "^2.7.2",
+    "mini-css-extract-plugin": "^2.7.6",
     "mock-http": "^1.1.0",
     "monaco-editor": "^0.29.1",
     "monaco-editor-webpack-plugin": "^5.0.0",
