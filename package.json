@@ -35,7 +35,7 @@
     "@types/react": "^17"
   },
   "devDependencies": {
-    "adr": "^1.4.3",
+    "adr": "^1.4.5",
     "cross-env": "^7.0.3",
     "lerna": "^6.5.1",
     "rimraf": "^4.4.0"
