@@ -117,7 +117,7 @@
     }
   },
   "dependencies": {
-    "@astronautlabs/jsonpath": "^1.1.0",
+    "@astronautlabs/jsonpath": "^1.1.2",
     "@hapi/call": "^9.0.1",
     "@hapi/subtext": "^7.1.0",
     "@k8slens/cluster-settings": "^6.5.0-alpha.1",
