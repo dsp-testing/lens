@@ -266,7 +266,7 @@
     "node-loader": "^2.0.0",
     "nodemon": "^2.0.20",
     "playwright": "^1.30.0",
-    "react-refresh": "^0.14.0",
+    "react-refresh": "^0.14.2",
     "react-refresh-typescript": "^2.0.7",
     "react-select": "^5.7.0",
     "rimraf": "^4.1.2",
