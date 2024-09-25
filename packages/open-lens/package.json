@@ -222,7 +222,7 @@
     "@electron/rebuild": "^3.2.10",
     "@k8slens/node-fetch": "^6.5.0-alpha.1",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
-    "@swc/cli": "^0.1.61",
+    "@swc/cli": "^0.4.0",
     "@swc/core": "^1.3.37",
     "@swc/jest": "^0.2.24",
     "@types/byline": "^4.2.33",
