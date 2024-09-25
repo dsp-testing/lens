@@ -210,7 +210,7 @@
     "@types/dompurify": "^2.4.0",
     "@types/electron-devtools-installer": "^2.2.1",
     "@types/fs-extra": "^9.0.13",
-    "@types/glob-to-regexp": "^0.4.1",
+    "@types/glob-to-regexp": "^0.4.4",
     "@types/hapi__call": "^9.0.0",
     "@types/hapi__subtext": "^7.0.0",
     "@types/http-proxy": "^1.17.9",
