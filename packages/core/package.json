@@ -304,7 +304,7 @@
     "sass-loader": "^12.6.0",
     "style-loader": "^3.3.1",
     "tailwindcss": "^3.2.4",
-    "ts-loader": "^9.4.2",
+    "ts-loader": "^9.5.1",
     "ts-node": "^10.9.1",
     "type-fest": "^2.14.0",
     "typed-emitter": "^1.4.0",
