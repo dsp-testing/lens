@@ -256,7 +256,7 @@
     "cross-env": "^7.0.3",
     "css-loader": "^6.7.3",
     "deepdash": "^5.3.9",
-    "dompurify": "^2.4.4",
+    "dompurify": "^2.5.7",
     "electron": "^22.3.3",
     "electron-builder": "^23.6.0",
     "esbuild": "^0.17.15",
