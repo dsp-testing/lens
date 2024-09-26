@@ -172,7 +172,7 @@
     "react-router": "^5.3.4",
     "react-virtualized-auto-sizer": "^1.0.7",
     "readable-stream": "^3.6.0",
-    "rfc6902": "^5.0.1",
+    "rfc6902": "^5.1.1",
     "selfsigned": "^2.1.1",
     "semver": "^7.3.8",
     "tar": "^6.1.13",
