@@ -160,7 +160,7 @@
     "mobx-react": "^7.6.0",
     "mobx-utils": "^6.0.4",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.40",
+    "moment-timezone": "^0.5.46",
     "node-pty": "0.10.1",
     "npm": "^8.19.3",
     "p-limit": "^3.1.0",
