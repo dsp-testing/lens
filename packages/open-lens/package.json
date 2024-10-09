@@ -219,7 +219,7 @@
     "rimraf": "^4.1.2"
   },
   "devDependencies": {
-    "@electron/rebuild": "^3.2.10",
+    "@electron/rebuild": "^3.7.0",
     "@k8slens/node-fetch": "^6.5.0-alpha.1",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
     "@swc/cli": "^0.1.61",
