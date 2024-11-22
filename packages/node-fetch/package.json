@@ -22,7 +22,7 @@
     "prepare:test": "npm run build"
   },
   "dependencies": {
-    "node-fetch": "^3.3.0",
+    "node-fetch": "^2.7.0",
     "rimraf": "^4.1.2"
   },
   "devDependencies": {
